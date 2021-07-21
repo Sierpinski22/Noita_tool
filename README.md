@@ -1,4 +1,4 @@
-# Noita_tool
+# Noita tool
 
 How to use:
 
